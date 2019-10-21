@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">app</string>
+    <string name="my_name">Ho Heu Kei</string>
+    <string name="my_profile_pic">my profile pic</string>
+    <string name="my_profile_desc">
+        my name is hoheukei
+        \n
+        hahahahhahhhhaa
+        \n</string>
+</resources>
